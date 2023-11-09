@@ -1,7 +1,5 @@
 package org.example;
 
-import jdk.internal.util.xml.impl.Pair;
-
 import java.awt.*;
 import java.io.*;
 import java.util.ArrayList;
