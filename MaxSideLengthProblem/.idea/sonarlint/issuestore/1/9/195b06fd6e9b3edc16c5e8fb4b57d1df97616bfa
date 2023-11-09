@@ -1,0 +1,20 @@
+
+r	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¯Ä¾ûÿÿÿÿ8™Ÿ¶ÿº1
+7
+java:S1220""Move this file to a named package.8ïå¶ÿº1
+n
+java:S2095s"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(şÁõ«şÿÿÿÿ8» ¶ÿº1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(º­Ûşÿÿÿÿ8½ ¶ÿº1
+X
+java:S1854v";Remove this useless assignment to local variable "brInput".(İĞíî8Á ¶ÿº1
+|
+java:S3012…"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(•Ş–“şÿÿÿÿ8Ä ¶ÿº1
+|
+java:S3012ˆ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ççûşÿÿÿÿ8Ä ¶ÿº1
+B
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8¹·ÿº1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¹·ÿº1
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8¹·ÿº1
